@@ -10,10 +10,3 @@
 - SMS alert via GSM when vibration > threshold
 - Portable power supply (Li-ion battery + charge module)
 
-## How to run
-1. Flash `code/vibration_monitor.ino` to ESP32 using Arduino IDE.  
-2. Connect ADXL345 to SDA/SCL, GSM to TX/RX, LCD to digital pins.  
-3. Configure Wi-Fi and Blynk credentials in the sketch.
-
-## Contact
-Deenadhayalan — deena20061234@gmail.com
